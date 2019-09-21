@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{B2B58FB2-4462-6B0C-A872-40DD957E5FE0}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../2019-1/3D游戏建模/unity3d-learning-motion/Assets/Scripts/FirstController.cs">
+    <Files>
+      <File FileName="../2019-1/3D游戏建模/unity3d-learning-motion/Assets/Scripts/SSDirector.cs" Line="1" Column="1" />
+      <File FileName="../2019-1/3D游戏建模/unity3d-learning-motion/Assets/Scripts/FirstController.cs" Line="29" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
